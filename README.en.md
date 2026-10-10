@@ -25,6 +25,11 @@ See [CHANGELOG.md](CHANGELOG.md) for changes by version. Luma uses `MAJOR.MINOR.
 
 Luma is built around **viewing images and finding them through tags**, rather than turning a personal collection into a complicated management interface.
 
+## Planned updates
+
+- Bulk import of tags into the tag library from CSV files
+- Merge library tags into image EXIF metadata
+
 ## Caution
 
 This app is 100% a hobby project. It may contain bugs and messy design. Even the creator doesn't know when it will be updated.
