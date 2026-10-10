@@ -24,3 +24,7 @@ See [CHANGELOG.md](CHANGELOG.md) for changes by version. Luma uses `MAJOR.MINOR.
 ## Project focus
 
 Luma is built around **viewing images and finding them through tags**, rather than turning a personal collection into a complicated management interface.
+
+## Caution
+
+This app is 100% a hobby project. It may contain bugs and messy design. Even the creator doesn't know when it will be updated.
