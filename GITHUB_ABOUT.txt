@@ -1,0 +1,14 @@
+[Korean / 한국어]
+Windows용 로컬 이미지 라이브러리. booru 스타일의 태그로 이미지를 감상하고 검색·필터링합니다.
+
+[English — recommended for the single GitHub About description field]
+A local Windows image library with booru-style tagging, browsing, and filtering.
+
+[Japanese / 日本語]
+Windows 向けローカル画像ライブラリ。booru スタイルのタグで画像を閲覧・検索・絞り込みできます。
+
+[Simplified Chinese / 简体中文]
+Windows 本地图片资料库，支持 booru 风格的标签整理、浏览与筛选。
+
+[Suggested GitHub topics]
+windows, image-viewer, image-library, tagging, local-first, desktop-app
