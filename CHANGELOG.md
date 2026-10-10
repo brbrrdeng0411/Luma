@@ -2,7 +2,7 @@
 
 Luma uses `MAJOR.MINOR.PATCH` versioning. / Luma는 `MAJOR.MINOR.PATCH` 버전 표기를 사용합니다.
 
-## [1.0.0] - 2026-10-10
+## [1.3.8] - 2026-10-10
 
 ### 한국어
 - Luma의 첫 GitHub 기준 버전입니다.

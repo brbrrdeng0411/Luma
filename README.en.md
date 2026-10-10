@@ -15,7 +15,7 @@ Luma is a **local image library for Windows**. It is designed for browsing pictu
 
 ## Download and run
 
-Open the **Releases** section and download the Windows distribution for **Luma v1.0.0**. Extract the archive if necessary, then run the included application.
+Open the **Releases** section and download the Windows distribution for **Luma v1.3.8**. Extract the archive if necessary, then run the included application.
 
 ## Version history
 
