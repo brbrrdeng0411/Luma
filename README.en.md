@@ -1,6 +1,6 @@
 # Luma
 
-**Languages:** [한국어](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md)
+**Languages:** [한국어](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) Any similarity in name to other projects is purely coincidental, and Luma is an entirely non-commercial project.
 
 Luma is a **local image library for Windows**. It is designed for browsing pictures in a folder, organizing them with tags, and finding them through tag-based search and filtering. It brings booru-style tag navigation to a personal, local collection.
 
@@ -33,7 +33,3 @@ Luma is built around **viewing images and finding them through tags**, rather th
 ## Caution
 
 This app is 100% a hobby project. It may contain bugs and messy design. Even the creator doesn't know when it will be updated.
-
-## Name and affiliation
-
-This Luma project is an independently developed personal image library. It is not affiliated with, endorsed by, sponsored by, or officially associated with any existing company, product, service, application, or project using the name “Luma.”
