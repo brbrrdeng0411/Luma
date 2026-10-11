@@ -1,8 +1,8 @@
 # Luma
 
-**Languages:** [한국어](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) Any similarity in name to other projects is purely coincidental, and Luma is an entirely non-commercial project.
+**Languages:** [한국어](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md)
 
-Luma is a **local image library for Windows**. It is designed for browsing pictures in a folder, organizing them with tags, and finding them through tag-based search and filtering. It brings booru-style tag navigation to a personal, local collection.
+Luma is a **local image library for Windows**. It is designed for browsing pictures in a folder, organizing them with tags, and finding them through tag-based search and filtering. It brings booru-style tag navigation to a personal, local collection. Any similarity in name to other projects is purely coincidental, and Luma is an entirely non-commercial project.
 
 ## Core features
 
